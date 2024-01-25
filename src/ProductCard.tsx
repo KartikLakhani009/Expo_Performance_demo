@@ -33,9 +33,9 @@ const ProductItem = ({
   );
 };
 
-// export default ProductItem;
+export default ProductItem;
 
-export default React.memo(ProductItem)
+// export default React.memo(ProductItem)
 
 const styles = StyleSheet.create({
   titleText: {
